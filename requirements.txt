@@ -1,0 +1,7 @@
+fastapi==0.101.1
+cassandra-driver
+uvicorn
+sentence_transformers
+pandas
+numpy==1.24.4
+accelerate
